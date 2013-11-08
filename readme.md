@@ -1,5 +1,7 @@
 # Colibri #
 
+![Colibri](assets/screenshot-v1.png)
+
 Juego realizado con CraftyJS
 
 Para mejorar:
